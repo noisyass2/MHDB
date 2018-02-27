@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/macair/.android/build-cache/6d2eac27df48c0d667a0af4f1d06ee47c274893b/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/macair/.android/build-cache/19dcbe17cc9eea2b2d3041a6facb097893b91109/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/macair/.android/build-cache/19dcbe17cc9eea2b2d3041a6facb097893b91109/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/macair/.android/build-cache/6d2eac27df48c0d667a0af4f1d06ee47c274893b/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/macair/.android/build-cache/19dcbe17cc9eea2b2d3041a6facb097893b91109/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/macair/.android/build-cache/19dcbe17cc9eea2b2d3041a6facb097893b91109/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/drawer_slide_out_top.xml",
+        "source": "/Users/macair/.android/build-cache/02b2622bc5bc3b27c7d44c3c1184073e9cfbdf8d/output/res/anim/drawer_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/drawer_slide_in_top.xml",
+        "source": "/Users/macair/.android/build-cache/02b2622bc5bc3b27c7d44c3c1184073e9cfbdf8d/output/res/anim/drawer_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/macair/.android/build-cache/19dcbe17cc9eea2b2d3041a6facb097893b91109/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/macair/.android/build-cache/19dcbe17cc9eea2b2d3041a6facb097893b91109/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/macair/.android/build-cache/6d2eac27df48c0d667a0af4f1d06ee47c274893b/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/macair/.android/build-cache/6d2eac27df48c0d667a0af4f1d06ee47c274893b/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/macair/.android/build-cache/19dcbe17cc9eea2b2d3041a6facb097893b91109/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/abc_fade_out.xml",
+        "source": "/Users/macair/.android/build-cache/19dcbe17cc9eea2b2d3041a6facb097893b91109/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/macair/.android/build-cache/19dcbe17cc9eea2b2d3041a6facb097893b91109/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/res/merged/F0/debug/anim/abc_fade_in.xml",
+        "source": "/Users/macair/.android/build-cache/19dcbe17cc9eea2b2d3041a6facb097893b91109/output/res/anim/abc_fade_in.xml"
+    }
+]

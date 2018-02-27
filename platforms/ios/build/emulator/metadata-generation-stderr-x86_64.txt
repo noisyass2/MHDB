@@ -1,0 +1,167 @@
+clang version 4.0.0 (tags/RELEASE_400/final)
+Target: x86_64-apple-darwin15.6.0
+Thread model: posix
+InstalledDir: 
+clang Invocation:
+ "clang-tool" "-cc1" "-triple" "x86_64-apple-ios8.0.0" "-Wdeprecated-objc-isa-usage" "-Werror=deprecated-objc-isa-usage" "-Werror=implicit-function-declaration" "-fsyntax-only" "-disable-free" "-disable-llvm-verifier" "-discard-value-names" "-main-file-name" "umbrella.h" "-mrelocation-model" "pic" "-pic-level" "2" "-mthread-model" "posix" "-mdisable-fp-elim" "-masm-verbose" "-munwind-tables" "-target-cpu" "core2" "-target-linker-version" "301.1" "-v" "-dwarf-column-info" "-debugger-tuning=lldb" "-resource-dir" "../lib/clang/4.0.0" "-isysroot" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.2.sdk" "-D" "__NATIVESCRIPT_METADATA_GENERATOR=1" "-I" "/Users/macair/Projectz/NSP/Monster" "-I" "Hunter" "-I" "World" "-I" "DB/platforms/ios/build/emulator/include" "-I" "/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/internal" "-I" "/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/internal/TKLiveSync/include" "-F/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/build/emulator" "-F/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/internal/" "-F/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios" "-F/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/tns-core-modules-widgets/platforms/ios" "-D" "DEBUG=1" "-Wno-unknown-pragmas" "-Wno-ignored-attributes" "-Wno-nullability-completeness" "-Wno-expansion-to-defined" "-std=gnu99" "-fdebug-compilation-dir" "/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/internal/metadata-generator/bin" "-ferror-limit" "0" "-fmessage-length" "0" "-stack-protector" "1" "-fblocks" "-fimplicit-module-maps" "-fobjc-runtime=ios-8.0.0" "-fencode-extended-block-signature" "-fobjc-exceptions" "-fexceptions" "-fmax-type-align=16" "-fdiagnostics-show-option" "-x" "objective-c" "umbrella.h"
+
+ignoring nonexistent directory "/Users/macair/Projectz/NSP/Monster"
+ignoring nonexistent directory "Hunter"
+ignoring nonexistent directory "World"
+ignoring nonexistent directory "DB/platforms/ios/build/emulator/include"
+ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.2.sdk/usr/local/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ /Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/internal
+ /Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/internal/TKLiveSync/include
+ /Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/build/emulator (framework directory)
+ /Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/internal (framework directory)
+ /Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios (framework directory)
+ /Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/tns-core-modules-widgets/platforms/ios (framework directory)
+ ../lib/clang/4.0.0/include
+ /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.2.sdk/usr/include
+ /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.2.sdk/System/Library/Frameworks (framework directory)
+ /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.2.sdk/Library/Frameworks (framework directory)
+End of search list.
+clang version 4.0.0 (tags/RELEASE_400/final)
+Target: x86_64-apple-darwin15.6.0
+Thread model: posix
+InstalledDir: 
+clang Invocation:
+ "objc-metadata-generator" "-cc1" "-triple" "x86_64-apple-ios8.0.0" "-Wdeprecated-objc-isa-usage" "-Werror=deprecated-objc-isa-usage" "-Werror=implicit-function-declaration" "-fsyntax-only" "-disable-free" "-disable-llvm-verifier" "-discard-value-names" "-main-file-name" "umbrella.h" "-mrelocation-model" "pic" "-pic-level" "2" "-mthread-model" "posix" "-mdisable-fp-elim" "-masm-verbose" "-munwind-tables" "-target-cpu" "core2" "-target-linker-version" "301.1" "-v" "-dwarf-column-info" "-debugger-tuning=lldb" "-resource-dir" "../lib/clang/4.0.0" "-isysroot" "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.2.sdk" "-D" "__NATIVESCRIPT_METADATA_GENERATOR=1" "-I" "/Users/macair/Projectz/NSP/Monster" "-I" "Hunter" "-I" "World" "-I" "DB/platforms/ios/build/emulator/include" "-I" "/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/internal" "-I" "/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/internal/TKLiveSync/include" "-F/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/build/emulator" "-F/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/internal/" "-F/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios" "-F/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/tns-core-modules-widgets/platforms/ios" "-D" "DEBUG=1" "-Wno-unknown-pragmas" "-Wno-ignored-attributes" "-Wno-nullability-completeness" "-Wno-expansion-to-defined" "-std=gnu99" "-fdebug-compilation-dir" "/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/internal/metadata-generator/bin" "-ferror-limit" "0" "-fmessage-length" "0" "-stack-protector" "1" "-fblocks" "-fimplicit-module-maps" "-fobjc-runtime=ios-8.0.0" "-fencode-extended-block-signature" "-fobjc-exceptions" "-fexceptions" "-fmax-type-align=16" "-fdiagnostics-show-option" "-x" "objective-c" "umbrella.h"
+
+clang -cc1 version 4.0.0 based upon LLVM 4.0.0 default target x86_64-apple-darwin15.6.0
+ignoring nonexistent directory "/Users/macair/Projectz/NSP/Monster"
+ignoring nonexistent directory "Hunter"
+ignoring nonexistent directory "World"
+ignoring nonexistent directory "DB/platforms/ios/build/emulator/include"
+ignoring nonexistent directory "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.2.sdk/usr/local/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ /Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/internal
+ /Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/internal/TKLiveSync/include
+ /Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/build/emulator (framework directory)
+ /Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/internal (framework directory)
+ /Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios (framework directory)
+ /Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/tns-core-modules-widgets/platforms/ios (framework directory)
+ ../lib/clang/4.0.0/include
+ /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.2.sdk/usr/include
+ /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.2.sdk/System/Library/Frameworks (framework directory)
+ /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.2.sdk/Library/Frameworks (framework directory)
+End of search list.
+In file included from umbrella.h:543:
+In file included from /Users/macair/Projectz/NSP/Monster Hunter World DB/node_modules/nativescript-pro-ui/platforms/ios/TNSListView.framework/Headers/TNSListView.h:26:
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TNSListView.framework/Headers/TKListViewLayoutChange.h:16:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+@property (nonatomic) NSIndexPath *from;
+^
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TNSListView.framework/Headers/TKListViewLayoutChange.h:16:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TNSListView.framework/Headers/TKListViewLayoutChange.h:18:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+@property (nonatomic) NSIndexPath *to;
+^
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TNSListView.framework/Headers/TKListViewLayoutChange.h:18:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+In file included from umbrella.h:590:
+In file included from /Users/macair/Projectz/NSP/Monster Hunter World DB/node_modules/nativescript-pro-ui/platforms/ios/TNSDataForm.framework/Headers/TNSDataForm.h:19:
+In file included from /Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TNSDataForm.framework/Headers/TKDataForm.h:8:
+In file included from /Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TNSDataForm.framework/Headers/TKEntityProperty.h:14:
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TNSAutoComplete.framework/Headers/TKAutoCompleteTextView.h:85:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+@property(nonatomic, nonnull) TKAutoCompleteCoverView *cover;
+^
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TNSAutoComplete.framework/Headers/TKAutoCompleteTextView.h:85:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+In file included from umbrella.h:590:
+In file included from /Users/macair/Projectz/NSP/Monster Hunter World DB/node_modules/nativescript-pro-ui/platforms/ios/TNSDataForm.framework/Headers/TNSDataForm.h:19:
+In file included from /Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TNSDataForm.framework/Headers/TKDataForm.h:8:
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TNSDataForm.framework/Headers/TKEntityProperty.h:97:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+@property (nonatomic) NSString *groupName;
+^
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TNSDataForm.framework/Headers/TKEntityProperty.h:97:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+In file included from umbrella.h:590:
+In file included from /Users/macair/Projectz/NSP/Monster Hunter World DB/node_modules/nativescript-pro-ui/platforms/ios/TNSDataForm.framework/Headers/TNSDataForm.h:38:
+In file included from /Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TNSDataForm.framework/Headers/TKDataFormAutoCompleteInlineEditor.h:9:
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TNSDataForm.framework/Headers/TKDataFormEditor.h:106:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+@property (nonatomic, nullable) id value;
+^
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TNSDataForm.framework/Headers/TKDataFormEditor.h:106:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+In file included from umbrella.h:590:
+In file included from /Users/macair/Projectz/NSP/Monster Hunter World DB/node_modules/nativescript-pro-ui/platforms/ios/TNSDataForm.framework/Headers/TNSDataForm.h:38:
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TNSDataForm.framework/Headers/TKDataFormAutoCompleteInlineEditor.h:22:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+@property (nonatomic, nonnull) TKAutoCompleteTextView *autoCompleteView;
+^
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TNSDataForm.framework/Headers/TKDataFormAutoCompleteInlineEditor.h:22:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+In file included from umbrella.h:590:
+In file included from /Users/macair/Projectz/NSP/Monster Hunter World DB/node_modules/nativescript-pro-ui/platforms/ios/TNSDataForm.framework/Headers/TNSDataForm.h:78:
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TNSDataForm.framework/Headers/TKDataFormRegExValidator.h:12:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+@property (nonatomic) NSString* regEx;
+^
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TNSDataForm.framework/Headers/TKDataFormRegExValidator.h:12:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+In file included from umbrella.h:590:
+In file included from /Users/macair/Projectz/NSP/Monster Hunter World DB/node_modules/nativescript-pro-ui/platforms/ios/TNSDataForm.framework/Headers/TNSDataForm.h:82:
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TNSDataForm.framework/Headers/TKEntityPropertyGroupEditorsView.h:19:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+@property (nonatomic) id<TKLayout> layout;
+^
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TNSDataForm.framework/Headers/TKEntityPropertyGroupEditorsView.h:19:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+In file included from umbrella.h:597:
+In file included from /Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TelerikAppFeedback.framework/Headers/TelerikAppFeedback.h:20:
+In file included from /Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TelerikAppFeedback.framework/Headers/TKFeedback.h:8:
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TelerikAppFeedback.framework/Headers/TKFeedbackSettings.h:23:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+@property (nonatomic) NSString* feedbackSentAlertTitle;
+^
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TelerikAppFeedback.framework/Headers/TKFeedbackSettings.h:23:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TelerikAppFeedback.framework/Headers/TKFeedbackSettings.h:28:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+@property (nonatomic) NSString* feedbackSentAlertText;
+^
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TelerikAppFeedback.framework/Headers/TKFeedbackSettings.h:28:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TelerikAppFeedback.framework/Headers/TKFeedbackSettings.h:33:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+@property (nonatomic) NSString* feedbackTitle;
+^
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TelerikAppFeedback.framework/Headers/TKFeedbackSettings.h:33:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TelerikAppFeedback.framework/Headers/TKFeedbackSettings.h:38:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+@property (nonatomic) NSString* feedbackMenuSendCaption;
+^
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TelerikAppFeedback.framework/Headers/TKFeedbackSettings.h:38:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TelerikAppFeedback.framework/Headers/TKFeedbackSettings.h:43:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+@property (nonatomic) NSString* feedbackMenuSettingsCaption;
+^
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TelerikAppFeedback.framework/Headers/TKFeedbackSettings.h:43:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TelerikAppFeedback.framework/Headers/TKFeedbackSettings.h:48:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+@property (nonatomic) NSString* feedbackMenuMyFeedbackCaption;
+^
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TelerikAppFeedback.framework/Headers/TKFeedbackSettings.h:48:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+In file included from umbrella.h:650:
+In file included from /Users/macair/Projectz/NSP/Monster Hunter World DB/node_modules/nativescript-pro-ui/platforms/ios/TNSCalendar.framework/Headers/TNSCalendar.h:33:
+In file included from /Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TNSCalendar.framework/Headers/TKCalendarDayViewEventsView.h:8:
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TNSCalendar.framework/Headers/TKCalendarDayViewEventsViewStyle.h:43:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+@property (nonatomic, nullable) UIColor * labelTextColor;
+^
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TNSCalendar.framework/Headers/TKCalendarDayViewEventsViewStyle.h:43:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TNSCalendar.framework/Headers/TKCalendarDayViewEventsViewStyle.h:58:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+@property (nonatomic, nullable) UIColor * separatorColor;
+^
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TNSCalendar.framework/Headers/TKCalendarDayViewEventsViewStyle.h:58:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+In file included from umbrella.h:650:
+In file included from /Users/macair/Projectz/NSP/Monster Hunter World DB/node_modules/nativescript-pro-ui/platforms/ios/TNSCalendar.framework/Headers/TNSCalendar.h:38:
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TNSCalendar.framework/Headers/TKCalendarDefaultTheme.h:11:37: error: attempting to use the forward class 'TKTheme' as superclass of 'TKCalendarDefaultTheme'
+@interface TKCalendarDefaultTheme : TKTheme
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   ^
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TNSCalendar.framework/Headers/TKCalendar.h:11:8: note: forward declaration of class here
+@class TKTheme;
+       ^
+In file included from umbrella.h:650:
+In file included from /Users/macair/Projectz/NSP/Monster Hunter World DB/node_modules/nativescript-pro-ui/platforms/ios/TNSCalendar.framework/Headers/TNSCalendar.h:48:
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TNSCalendar.framework/Headers/TKCalendarIPadTheme.h:11:34: error: attempting to use the forward class 'TKTheme' as superclass of 'TKCalendarIPadTheme'
+@interface TKCalendarIPadTheme : TKTheme
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   ^
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TNSCalendar.framework/Headers/TKCalendar.h:11:8: note: forward declaration of class here
+@class TKTheme;
+       ^
+In file included from umbrella.h:650:
+In file included from /Users/macair/Projectz/NSP/Monster Hunter World DB/node_modules/nativescript-pro-ui/platforms/ios/TNSCalendar.framework/Headers/TNSCalendar.h:53:
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TNSCalendar.framework/Headers/TKCalendarMonthPresenterStyle.h:19:1: warning: no 'assign', 'retain', or 'copy' attribute is specified - 'assign' is assumed [-Wobjc-property-no-attribute]
+@property (nonatomic) UIColor *popoverColor;
+^
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TNSCalendar.framework/Headers/TKCalendarMonthPresenterStyle.h:19:1: warning: default property attribute 'assign' not appropriate for non-GC object [-Wobjc-property-no-attribute]
+In file included from umbrella.h:727:
+In file included from /Users/macair/Projectz/NSP/Monster Hunter World DB/node_modules/nativescript-pro-ui/platforms/ios/TNSSideDrawer.framework/Headers/TNSSideDrawer.h:21:
+/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/ios/../../node_modules/nativescript-pro-ui/platforms/ios/TNSSideDrawer.framework/Headers/SideDrawerScaleDownPusher.h:8:9: fatal error: 'TKSideDrawerTransition_Internal.h' file not found
+#import "TKSideDrawerTransition_Internal.h"
+        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+34 warnings and 3 errors generated.

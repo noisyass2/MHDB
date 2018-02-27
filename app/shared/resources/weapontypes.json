@@ -1,0 +1,69 @@
+[{
+    "name":"Charge Blade",
+    "code":"chargeblade",
+    "abbr":"CB"
+},
+{
+    "name":"Switch Axe",
+    "code":"switchaxe",
+    "abbr":"CB"
+},
+{
+    "name":"Sword and Shield",
+    "code":"swordand shield",
+    "abbr":"SNS"
+},{
+    "name":"Great Sword",
+    "code":"greatsword",
+    "abbr":"GS"
+},
+{
+    "name":"Longsword",
+    "code":"longsword",
+    "abbr":"LS"
+},
+{
+    "name":"Dual Blades",
+    "code":"dualblades",
+    "abbr":"DB"
+},
+{
+    "name":"Insect Glaive",
+    "code":"insectglaive",
+    "abbr":"IG"
+},
+{
+    "name":"Lance",
+    "code":"lance",
+    "abbr":"LNC"
+},
+{
+    "name":"Gunlance",
+    "code":"gunlance",
+    "abbr":"GL"
+},
+{
+    "name":"Hammer",
+    "code":"hammer",
+    "abbr":"HMR"
+},
+{
+    "name":"Hunting Horn",
+    "code":"huntinghorn",
+    "abbr":"HH"
+},
+{
+    "name":"Bow",
+    "code":"bow",
+    "abbr":"BOW"
+},
+{
+    "name":"Light Bow Gun",
+    "code":"lightbowgun",
+    "abbr":"LBG"
+},
+{
+    "name":"Heavy Bow Gun",
+    "code":"heavybowgun",
+    "abbr":"HBG"
+}]

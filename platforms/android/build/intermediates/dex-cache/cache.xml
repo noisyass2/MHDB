@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/macair/.android/build-cache/02b2622bc5bc3b27c7d44c3c1184073e9cfbdf8d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="16dfa5cc51cd9a9e2809e48ceb26724a29861fdd">
+        <dex dex="/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_c0b86ae7ae881b84b824259ab0fa736352e842c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macair/.android/build-cache/aafc8e3d2a537d56c9142f565647f69909f7e8d6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_6240142eb68a6d80e4316886af81501d5d7d32be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macair/.android/build-cache/a16980e59060382060cda3e51f5f73782182d47c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_6882490f0fb614f2e4ec45847ade84763512a63d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macair/.android/build-cache/219f7ba384dab09d26feab879c6f080f5036516a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_55e88382dd80578963d0855fd3fb816df178b389.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macair/.android/build-cache/7405877aec4612c4460ae217e251e94b212eaa81/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_fc6c7c4bb75f306728e737b9e6a23efbece74b2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macair/.android/build-cache/c5f8c57b95fa4f72732518b1735f6b7b37a8b47b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_f186b9bbb845e2130c2801dd6fb4ade665655566.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macair/.android/build-cache/b1b7c1ec5002d5e7f019d4039762e1389b8d1719/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_2cace8aad31c0a46b5eb49097b23e1dfd1f2b304.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macair/.android/build-cache/0231d19943a1e6a1226206ff5170086aeb66b797/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9ffa5b2e37c626bd25cfbff4df099cdf068595f9">
+        <dex dex="/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_aab358b0002f6567b3f17f3bd0d52856d2e87178.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macair/.android/build-cache/2b4e6caf5e2023e02dd9db96f75ba45fd1d0de63/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ce22401852bd9e460265a9a1567f7cedb6fc91b9">
+        <dex dex="/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_80fdb8eef2d5ce5d4a96fa3d8ab87bdeb0dac292.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macair/.android/build-cache/1416d8a1a7d24fa52428d08a4c53160e71119bee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="21ece50b870a8bea45608a6748ad60112d5d9ed1">
+        <dex dex="/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_31bd9c6a64e9b7db84d13adfc61946e683b10ef8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macair/.android/build-cache/51d49040e0947c5e7fa849ca1f7e19514e1f9909/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_e987da316c87b90f4fbbb0e0c67d8a6c8e714a72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macair/.android/build-cache/81c5753a2e3ffe604120c5a1b5d2c7473e9e18e2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_f5ad4d6f5af3c6772f94fb5039a4d5905a46873d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macair/.android/build-cache/6a20542e3f039368938410d0cfd136a2742d5f89/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_406b19c2feb0f8f9ef817244951365aaa8269a74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macair/.android/build-cache/6d2eac27df48c0d667a0af4f1d06ee47c274893b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_256e445bf9046f004709829d2456d965642fcfd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macair/.android/build-cache/cd9249417a0b03c36f61b2073d7fc905042efb60/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4df8aad66215f497722e05820383f9ff04796fea">
+        <dex dex="/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_4d0bbdf2b61c39b8c1bcbeb431567a206257231f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macair/.android/build-cache/759533c16c5b92cb028c00cb5e1c6f4d7ab5b655/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_ecae5e8d38205b8fc24ecd35cb3d762673d6f02f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macair/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/pre-dexed/F0/debug/support-annotations-26.0.0-alpha1_eddaae745f40b04d9c00475c6083f8cf81d41197.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macair/.android/build-cache/6dab402f3cecc48f1c0aae40065c8eb6e82d8722/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="556dc4e7734c7445d7310a625fad89c5be6728b2">
+        <dex dex="/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_87cbc2c9a380b8053125b188733527e2ddef3be3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macair/.android/build-cache/6d886766839551d110ed7cfe493880a1d9ebdca4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0eed9e468431f447bf63f3a0cee23418e8994411">
+        <dex dex="/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_40a6d99f230acde84c0ce662ae0324ce249f336e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macair/.android/build-cache/1c89e971a5a57e23ca53bf36490bd23df13a65f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_c0ea802bfaad9c21a9f188c7844737571ff528bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macair/.android/build-cache/4a64ed0285261debeba5e1fa30407db8d2c0abb9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ae411cd0dd58ad905486a0bc7931ec5adf3a2d13">
+        <dex dex="/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_da9977f255d98f1c5a4d8f995cfeb662343fd60b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macair/.android/build-cache/04049d8144b3f16af26bcdc0eb6624fc85c9d5e6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_41827d4a634383d09450aae8408b733143cb6855.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macair/.android/build-cache/19dcbe17cc9eea2b2d3041a6facb097893b91109/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/pre-dexed/F0/debug/classes_46356f0658de7259ed65455c1a9cca06826f9b4d.jar" />
+    </item>
+
+</items>

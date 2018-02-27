@@ -1,0 +1,34 @@
+<!--
+The MyDrawer custom component view is where you define what will be displayed in the app drawer.
+Feel free to customize layouts and components to change how your app drawer looks.
+-->
+<GridLayout rows="auto, *" class="sidedrawer sidedrawer-left">
+    <StackLayout row="0" class="sidedrawer-header">
+        <Label class="sidedrawer-header-image fa" text="&#xf2bd;"></Label>
+        <Label class="sidedrawer-header-brand" text="MHWDB"></Label>
+        <Label class="footnote" text="Monster Hunter World"></Label>
+    </StackLayout>
+
+    <ScrollView row="1">
+        <StackLayout class="sidedrawer-content">            
+            <MyDrawerItem title="Home" route="/home" icon="&#xf015;" [isSelected]="isPageSelected('Home')">
+            </MyDrawerItem>
+            <MyDrawerItem title="Monsters" route="/monsters" icon="&#xf005;" [isSelected]="isPageSelected('Monsters')">
+            </MyDrawerItem>
+            <MyDrawerItem title="Armors" route="/armors" icon="&#xf1ea;" [isSelected]="isPageSelected('Armors')">
+            </MyDrawerItem>
+            <MyDrawerItem title="Weapons" route="/weapons" icon="&#xf1ea;" [isSelected]="isPageSelected('Weapons')">
+            </MyDrawerItem>
+            <MyDrawerItem title="Items" route="/items" icon="&#xf002;" [isSelected]="isPageSelected('Items')">
+            </MyDrawerItem>
+            <MyDrawerItem title="Featured" route="/featured" icon="&#xf005;" [isSelected]="isPageSelected('Featured')">
+            </MyDrawerItem>
+            <MyDrawerItem title="Skills" route="/skills" icon="&#xf005;" [isSelected]="isPageSelected('Skills')">
+            </MyDrawerItem>
+            <StackLayout class="hr-light"></StackLayout>
+
+            <MyDrawerItem title="Settings" route="/settings" icon="&#xf013;" [isSelected]="isPageSelected('Settings')">
+            </MyDrawerItem>
+        </StackLayout>
+    </ScrollView>
+</GridLayout>

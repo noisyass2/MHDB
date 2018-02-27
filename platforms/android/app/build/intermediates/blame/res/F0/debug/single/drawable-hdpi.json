@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-hdpi/icon.png",
+        "source": "/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-hdpi/background.png",
+        "source": "/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/src/main/res/drawable-hdpi/background.png"
+    },
+    {
+        "merged": "/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-hdpi/logo.png",
+        "source": "/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/src/main/res/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/res/merged/F0/debug/drawable-hdpi/menu.png",
+        "source": "/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/src/main/res/drawable-hdpi/menu.png"
+    }
+]

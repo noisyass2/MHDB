@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/res/merged/F0/debug/menu/view_feedback_items_activity_menu.xml",
+        "source": "/Users/macair/.android/build-cache/6d886766839551d110ed7cfe493880a1d9ebdca4/output/res/menu/view_feedback_items_activity_menu.xml"
+    },
+    {
+        "merged": "/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/res/merged/F0/debug/menu/edit_details.xml",
+        "source": "/Users/macair/.android/build-cache/6d886766839551d110ed7cfe493880a1d9ebdca4/output/res/menu/edit_details.xml"
+    },
+    {
+        "merged": "/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/res/merged/F0/debug/menu/send_feedback_activity_menu.xml",
+        "source": "/Users/macair/.android/build-cache/6d886766839551d110ed7cfe493880a1d9ebdca4/output/res/menu/send_feedback_activity_menu.xml"
+    }
+]
