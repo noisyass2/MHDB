@@ -1,4 +1,0 @@
-#Fri Feb 09 15:05:56 PHT 2018
-base.0=/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/transforms/dex/F0/debug/folders/1000/1f/main
-renamed.0=classes.dex
-file.0=/Users/macair/Projectz/NSP/Monster Hunter World DB/platforms/android/app/build/intermediates/transforms/dex/F0/debug/folders/1000/1f/main/classes.dex
